@@ -1,4 +1,4 @@
-# Sales_data_analysis_Portfolio001
+# Retail_Sales_data_analysis_Portfolio001
 # Sales Data Analysis Project
 
 This project simulates a sales reporting and dashboard project for FSD & Export channels. 
